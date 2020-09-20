@@ -1,3 +1,5 @@
+![21 Savage](public/21savage.jpg)
+
 ## Installation
 
 1. Clone repo
